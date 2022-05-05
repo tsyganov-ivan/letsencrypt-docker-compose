@@ -1,0 +1,7 @@
+.*
+!.env
+!.gitignore
+.idea/
+certs
+certs-data
+conf/sites.conf
